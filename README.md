@@ -15,7 +15,7 @@ python3 star_war.python -r 10 -c 20 -s 0.4
 <li>-c specifies the width.</li>
 <li>-s specifies the speed between 0.1 and 1.  1 is very slow, 0.1 is very fast.</li>
 <li>get help by typing python3 star_war.python --help.</li>
-<ul>
+</ul>
   
 
 
