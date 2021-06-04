@@ -2,7 +2,7 @@
 
 ### How to run the game?
 <p>Run this game with the following command:
-```python
+```
 python3 star_war.python
 ```
 
