@@ -7,17 +7,20 @@
 python3 star_war.python
 ```
 
-<p>Run the game  with perameters:</p>
-
-```Python
-python3 star_war.python -r 10 -c 20 -s 0.4
-```
 
 <p>Get help:</p>
 
 ```Python
 python3 star_war.python --help
 ```  
+
+
+
+<p>Run the game  with perameters:</p>
+
+```Python
+python3 star_war.python -r 10 -c 20 -s 0.4
+```
 
 <ul>
 <li>-r specifies the height.</li>
