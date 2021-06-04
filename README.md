@@ -13,14 +13,17 @@ python3 star_war.python -r 10 -c 20 -s 0.4
 <ul>
 <li>-r specifies the height.</li>
 <li>-c specifies the width.</li>
-<li>-s specifies the speed between 0.1 and 1.  1 is very slow, 0.1 is very fast.</li>  
+<li>-s specifies the speed between 0.1 and 1.  1 is very slow, 0.1 is very fast.</li>
+<li>get help by typing python3 star_war.python --help.</li>
 <ul>
   
-python3 star_war.python --help
 
 
 
+
+  
 ### How to play the game?
+  
 press any key to start the game'.
 press "a" to move the spaceship to left.
 press "d" to move the spaceship to right.
